@@ -48,11 +48,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products 
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Hands-On Geospatial Analysis with R and QGIS [[Packt]](https://www.packtpub.com/application-development/hands-geospatial-analysis-r-and-qgis?utm_source=github&utm_medium=repository&utm_campaign=9781788991674) [[Amazon]](https://www.amazon.com/dp/1788991672)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Mastering Geospatial Development with QGIS 3.x - Third Edition [[Packt]](https://www.packtpub.com/application-development/mastering-geospatial-development-qgis-3x-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788999892) [[Amazon]](https://www.amazon.com/dp/1788999894)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Abdishakur Hassan**
 is a geographic information systems (GIS) expert and consultant with over 5 years of experience working with UN-Habitat. He holds an MSc in geoinformation science and earth observations. During his tenure as a GIS expert, Abdishakur has developed fully fledged GIS applications in the urban planning and land administration domains. He is interested in all things related to geospatial data science.
 
