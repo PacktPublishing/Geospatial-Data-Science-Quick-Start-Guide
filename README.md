@@ -34,7 +34,7 @@ for lat, lon in zip(nyc['Latitude'][:5], nyc['Longtitude'][:5]):
 **Following is what you need for this book:**
 Data Scientists who would like to leverage location-based data and want to use location-based intelligence in their data models will find this book useful. This book is also for GIS developers who wish to incorporate data analysis in their projects. Knowledge of Python programming and some basic understanding of data analysis are all you need to get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-07).
 
 ### Software and Hardware List
 
