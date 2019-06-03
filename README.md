@@ -61,8 +61,8 @@ is a geospatial data scientist, innovator, and author of a book titled ArcGIS fo
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [ArcGIS for JavaScript Developers by Example](https://www.packtpub.com/web-development/arcgis-javascript-developers-example?utm_source=github&utm_medium=repository&utm_campaign=9781785888663)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
