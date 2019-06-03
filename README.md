@@ -2,7 +2,7 @@
 
 <a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Geospatial Data Science Quick Start Guide](Packt UTM URL of the Book), published by Packt.
 
 **Effective techniques for performing smarter geospatial analysis using location intelligence**
 
