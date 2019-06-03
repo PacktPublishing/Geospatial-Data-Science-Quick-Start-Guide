@@ -1,2 +1,69 @@
-# Geospatial-Data-Science-Quick-Start-Guide
-Geospatial Data Science Quick Start Guide, published by Packt
+# Geospatial Data Science Quick Start Guide
+
+<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+
+This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+
+**Effective techniques for performing smarter geospatial analysis using location intelligence**
+
+## What is this book about?
+Data scientists, who have access to vast data streams, are a bit myopic when it comes to intrinsic and extrinsic location-based data and are missing out on the intelligence it can provide to their models. This book demonstrates effective techniques for using the power of data science and geospatial intelligence to build effective, intelligent data models that make use of location-based data to give useful predictions and analyses.
+
+This book covers the following exciting features: 
+* Learn how companies now use location data
+* Set up your Python environment and install Python geospatial packages
+* Visualize spatial data as graphs
+* Extract geometry from spatial data
+* Perform spatial regression from scratch
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178980941X) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
+
+The code will look like the following:
+```
+from shapely.geometry import Point
+for lat, lon in zip(nyc['Latitude'][:5], nyc['Longtitude'][:5]):
+   geometry = Point(lat, lon)
+    print(geometry)
+```
+
+**Following is what you need for this book:**
+Data Scientists who would like to leverage location-based data and want to use location-based intelligence in their data models will find this book useful. This book is also for GIS developers who wish to incorporate data analysis in their projects. Knowledge of Python programming and some basic understanding of data analysis are all you need to get the most out of this book.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+
+### Software and Hardware List
+
+| Chapter  | Software required                   | OS required                        |
+| -------- | ------------------------------------| -----------------------------------|
+| 1-07     | Python 3.0 and above                | Windows, Mac OS X, and Linux (Any) |
+
+
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789809411_ColorImages.pdf).
+
+
+### Related products 
+* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+
+* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+
+## Get to Know the Author(s)
+**Abdishakur Hassan**
+is a geographic information systems (GIS) expert and consultant with over 5 years of experience working with UN-Habitat. He holds an MSc in geoinformation science and earth observations. During his tenure as a GIS expert, Abdishakur has developed fully fledged GIS applications in the urban planning and land administration domains. He is interested in all things related to geospatial data science.
+
+**Jayakrishnan Vijayaraghavan**
+is a geospatial data scientist, innovator, and author of a book titled ArcGIS for JavaScript developers. He currently resides in the San Francisco Bay Area and has over 8 years of work experience. He has built patented technologies and products in the geospatial domain and has coached teams on leveraging mapping and spatial analytics tools for solving pertinent business problems. He is adept at computational geometry, especially in graph networks and in geospatial inferencing. He is a DAAD scholar and a winner of the UN-Habitat special jury award. He is keen on developing intelligent and ubiquitous mapping systems by integrating ML and DL techniques with GIS. He is also a novelist and a certified UAV pilot.
+
+
+## Other books by the authors
+* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
+* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
