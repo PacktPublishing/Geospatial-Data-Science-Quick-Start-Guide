@@ -1,8 +1,8 @@
 # Geospatial Data Science Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www2.packtpub.com/big-data-and-business-intelligence/geospatial-data-science-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789809411"><img src="https://www2.packtpub.com/sites/default/files/B12735_0.png" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Geospatial Data Science Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Geospatial Data Science Quick Start Guide](https://www2.packtpub.com/big-data-and-business-intelligence/geospatial-data-science-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789809411), published by Packt.
 
 **Effective techniques for performing smarter geospatial analysis using location intelligence**
 
