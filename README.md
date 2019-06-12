@@ -60,7 +60,7 @@ is a geographic information systems (GIS) expert and consultant with over 5 year
 is a geospatial data scientist, innovator, and author of a book titled ArcGIS for JavaScript developers. He currently resides in the San Francisco Bay Area and has over 8 years of work experience. He has built patented technologies and products in the geospatial domain and has coached teams on leveraging mapping and spatial analytics tools for solving pertinent business problems. He is adept at computational geometry, especially in graph networks and in geospatial inferencing. He is a DAAD scholar and a winner of the UN-Habitat special jury award. He is keen on developing intelligent and ubiquitous mapping systems by integrating ML and DL techniques with GIS. He is also a novelist and a certified UAV pilot.
 
 
-## Other books by the authors
+## Another book by the authors
 * [ArcGIS for JavaScript Developers by Example](https://www.packtpub.com/web-development/arcgis-javascript-developers-example?utm_source=github&utm_medium=repository&utm_campaign=9781785888663)
 
 
